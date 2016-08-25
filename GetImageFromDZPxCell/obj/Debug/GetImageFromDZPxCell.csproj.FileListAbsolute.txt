@@ -1,0 +1,10 @@
+C:\Users\Admin\Source\Repos\DocumentsStore\GetImageFromDZPxCell\bin\Debug\GetImageFromDZPxCell.exe.config
+C:\Users\Admin\Source\Repos\DocumentsStore\GetImageFromDZPxCell\bin\Debug\GetImageFromDZPxCell.exe
+C:\Users\Admin\Source\Repos\DocumentsStore\GetImageFromDZPxCell\bin\Debug\GetImageFromDZPxCell.pdb
+C:\Users\Admin\Source\Repos\DocumentsStore\GetImageFromDZPxCell\bin\Debug\CassetteKernel.dll
+C:\Users\Admin\Source\Repos\DocumentsStore\GetImageFromDZPxCell\bin\Debug\PolarDB.dll
+C:\Users\Admin\Source\Repos\DocumentsStore\GetImageFromDZPxCell\bin\Debug\CassetteKernel.pdb
+C:\Users\Admin\Source\Repos\DocumentsStore\GetImageFromDZPxCell\bin\Debug\PolarDB.pdb
+C:\Users\Admin\Source\Repos\DocumentsStore\GetImageFromDZPxCell\obj\Debug\GetImageFromDZPxCell.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Source\Repos\DocumentsStore\GetImageFromDZPxCell\obj\Debug\GetImageFromDZPxCell.exe
+C:\Users\Admin\Source\Repos\DocumentsStore\GetImageFromDZPxCell\obj\Debug\GetImageFromDZPxCell.pdb
